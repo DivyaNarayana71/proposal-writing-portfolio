@@ -52,8 +52,8 @@ The primary deliverable is a Compliance Matrix that links:
 This structured approach helps ensure every client requirement is understood, addressed, and incorporated into proposal development.
 
 ---
-## Project Document
+## Response Document
 
-[proposal_response.pdf](proposal_response.pdf)
+[Compliance_Matrix.pdf](Compliance_Matrix.pdf)
 
 *This project was created for learning and portfolio purposes to demonstrate proposal management and business analysis skills.*
